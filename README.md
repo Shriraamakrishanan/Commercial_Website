@@ -1313,9 +1313,13 @@ input:focus-visible {
 
 
 ## OUTPUT
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="1913" height="1029" alt="Screenshot 2026-05-05 183611" src="https://github.com/user-attachments/assets/80058276-3843-479e-b613-0338f8cfe15c" />
+
+<img width="1910" height="1027" alt="Screenshot 2026-05-05 183636" src="https://github.com/user-attachments/assets/73207290-e204-4dc7-b004-001f69383dcf" />
+
+<img width="1913" height="1026" alt="Screenshot 2026-05-05 183714" src="https://github.com/user-attachments/assets/a5542580-3670-4524-967a-5b4a958647ed" />
+
+
+
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
